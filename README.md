@@ -12,6 +12,14 @@ The Roads menu gives every group the ride it wants:
 You can also avoid motorways, favour curvy roads, mark areas the router must never use, and check a route
 for closed roads before you ride.
 
+## Loop rides
+Pick a start and a length (miles or hours) and GPX Toolkit finds a loop that brings you back where you started.
+Choose a direction or let it surprise you, and pick the surface: paved only, any road, or dirt. You can lean it
+towards twisty back roads, keep it out of towns, make it pass a place you choose, and add a gas or lunch stop near
+half-way. It also checks you'll be back before sunset and that you won't run short of fuel. The best three loops
+show on the map in their own colours. Add the one you like to your trip, and it's a normal route you can edit and
+send to your GPS. **Feeling lucky** picks the direction for you, but never changes the surface.
+
 ## See where the dirt is
 **Highlighting unpaved roads while zoomed out** shows where the dirt is across a whole region at a glance.
 I couldn't find another planner that did this, and it's what started the project. **Check dirt** then shows
@@ -23,6 +31,7 @@ to find more. Results are saved in the GPX file, so anyone you share it with see
 ## Everything in one place
 - **Trip library:** your trips are plain GPX files in folders, saved automatically.
 - **Editing:** edit tracks, routes and waypoints on the map; merge, reverse, and turn a recorded track into a route.
+- **Loop rides:** a ride out and back to your start, of the length you pick, from the Loop ride button.
 - **3D terrain:** tilt the map over the hills.
 - **Elevation profile and day-by-day trip plan:** distance, time and dirt share for each day.
 - **Offline maps and routing:** download whole regions and keep planning with no signal.

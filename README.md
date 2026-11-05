@@ -4,13 +4,14 @@ A Windows motorcycle trip planner, built as a friendlier alternative to Garmin B
 plan rides on pavement, on dirt, or a mix of both.
 
 ## Plan the ride you want
-The Roads menu gives every group the ride it wants:
+The **Route** panel (the Roads button beside the map) gives every group the ride it wants:
 - **Paved only** keeps the route off gravel and dirt entirely, for groups that want to avoid unpaved roads at all costs.
 - **Any road** mixes pavement and dirt for the best route.
 - **Dirt roads** seeks dirt out.
 
 You can also avoid motorways, favour curvy roads, mark areas the router must never use, and check a route
-for closed roads before you ride.
+for closed roads before you ride. The same panel starts and edits routes, and shows the selected route's
+distance, riding time, climb, dirt share and bends as you draw it.
 
 ## Loop rides
 Pick a start and a length (miles or hours) and GPX Toolkit finds a loop that brings you back where you started.
@@ -34,7 +35,7 @@ to find more. Results are saved in the GPX file, so anyone you share it with see
 - **Loop rides:** a ride out and back to your start, of the length you pick, from the Loop ride button.
 - **3D terrain:** tilt the map over the hills.
 - **Elevation profile and day-by-day trip plan:** distance, time and dirt share for each day.
-- **Offline maps and routing:** download whole regions and keep planning with no signal.
+- **Offline maps and routing:** download whole states, big areas or long routes and keep planning with no signal.
 - **Your GPS:** send trips to Garmin, BMW Nav and TomTom units, or share the GPX with friends.
 
 ## Install

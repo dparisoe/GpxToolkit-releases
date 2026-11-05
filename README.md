@@ -9,8 +9,9 @@ The **Route** panel (the Roads button beside the map) gives every group the ride
 - **Any road** mixes pavement and dirt for the best route.
 - **Dirt roads** seeks dirt out.
 
-You can also avoid motorways, favour curvy roads, mark areas the router must never use, and check a route
-for closed roads before you ride. The same panel starts and edits routes, and shows the selected route's
+You can also avoid motorways, toll roads and ferries, favour curvy roads, mark areas the router must never use,
+and check a route for closed roads before you ride. If a route still uses a toll road or a ferry, the route card
+warns you and the map marks where. The same panel starts and edits routes, and shows the selected route's
 distance, riding time, climb, dirt share and bends as you draw it.
 
 ## Loop rides
@@ -43,6 +44,7 @@ Open the [latest release](https://github.com/dparisoe/GpxToolkit-releases/releas
 `GpxToolkitApp-win-Setup.exe`. Windows may say "Windows protected your PC" because the app isn't code-signed:
 click *More info → Run anyway*.
 
-**Updates:** the app checks here when it starts and offers new versions by itself.
+**Updates:** the app checks here when it starts and offers new versions by itself. Each
+[release](https://github.com/dparisoe/GpxToolkit-releases/releases) lists what's new in it.
 
 This repository holds only the installer and update packages.

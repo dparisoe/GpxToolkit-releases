@@ -40,9 +40,20 @@ to find more. Results are saved in the GPX file, so anyone you share it with see
 - **Your GPS:** send trips to Garmin, BMW Nav and TomTom units, or share the GPX with friends.
 
 ## Install
-Open the [latest release](https://github.com/dparisoe/GpxToolkit-releases/releases/latest) and run
-`GpxToolkitApp-win-Setup.exe`. Windows may say "Windows protected your PC" because the app isn't code-signed:
-click *More info → Run anyway*.
+1. Open the [latest release](https://github.com/dparisoe/GpxToolkit-releases/releases/latest) and, under **Assets**,
+   click **GpxToolkitApp-win-Setup.exe** to download it. Ignore the other files.
+2. Your browser may warn about the download:
+   - **Edge** may say *"isn't commonly downloaded"*. Point at the message, click the **⋯** (three dots) → **Keep**.
+     If it asks again, click **Show more** → **Keep anyway**.
+   - **Chrome** may say *"Suspicious download blocked"*. Click the download, then **Download suspicious file** or **Keep**.
+3. Open the downloaded file, from the browser's downloads list or your **Downloads** folder.
+4. Windows shows a blue box: **"Windows protected your PC."** This is because the app isn't code-signed (signing
+   costs money); it isn't a virus warning. Click **More info** (the small link under the text), then **Run anyway**.
+5. It installs by itself in a few seconds, with no questions, and GPX Toolkit opens. It adds a Start menu entry
+   and a desktop shortcut.
+
+You only do this once. If **Run anyway** isn't there, the PC (often a work computer) only allows apps from the
+Microsoft Store.
 
 **Updates:** the app checks here when it starts and offers new versions by itself. Each
 [release](https://github.com/dparisoe/GpxToolkit-releases/releases) lists what's new in it.

@@ -10,7 +10,9 @@ The **Route** panel (the Roads button beside the map) gives every group the ride
 - **Dirt roads** seeks dirt out.
 
 You can also avoid motorways, toll roads and ferries, favour curvy roads, mark areas the router must never use,
-and check a route for closed roads before you ride. If a route still uses a toll road or a ferry, the route card
+and check a route for closed roads before you ride. State wildlife management areas (WMAs) show on the map, and
+you can keep routes out of any of them, always or during hunting season; in Georgia, the WMA roads the state lists
+as closed are avoided for you. If a route still uses a toll road or a ferry, the route card
 warns you and the map marks where. The same panel starts and edits routes, and shows the selected route's
 distance, riding time, climb, dirt share and bends as you draw it.
 

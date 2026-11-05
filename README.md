@@ -52,8 +52,22 @@ to find more. Results are saved in the GPX file, so anyone you share it with see
 5. It installs by itself in a few seconds, with no questions, and GPX Toolkit opens. It adds a Start menu entry
    and a desktop shortcut.
 
-You only do this once. If **Run anyway** isn't there, the PC (often a work computer) only allows apps from the
-Microsoft Store.
+You only do this once.
+
+### If Windows won't let you install it
+
+Some Windows 11 PCs are set to allow only Microsoft Store apps. You can tell from the message you see:
+
+- **"The app you're trying to install isn't a Microsoft-verified app"** (with a button to get apps from the Store):
+  open **Settings → Apps → Advanced app settings → Choose where to get apps** and pick **Anywhere**. Then run the
+  setup file again. You can set it back afterwards; GPX Toolkit keeps working and updating.
+- **"Smart App Control blocked an app that may be unsafe"** (and no Run anyway button): open **Windows Security →
+  App & browser control → Smart App Control settings** and pick **Off**. Then run the setup file again. Note: on
+  many PCs, Smart App Control can't be turned back on without resetting Windows, so think about it first.
+- **"For security and performance, this mode of Windows only runs verified apps from the Store"**: the PC is in
+  **S mode**. Leaving S mode is free but one-way: in the Microsoft Store, search for **Switch out of S mode** and
+  click **Get**.
+- On a **work or school PC**, these settings are often locked by the IT department; ask them, or use a personal PC.
 
 **Updates:** the app checks here when it starts and offers new versions by itself. Each
 [release](https://github.com/dparisoe/GpxToolkit-releases/releases) lists what's new in it.

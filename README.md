@@ -32,12 +32,20 @@ or a whole folder at once. A paved-only group can confirm a route is clean, and 
 built-in list of more than 2,000 shared dirt roads (thanks to Dan Miller, FCAR, and Regulators Dual Sport)
 to find more. Results are saved in the GPX file, so anyone you share it with sees them too.
 
+## Plan the days
+The **Trip** panel lays the whole trip out day by day: miles, riding time, start and finish, sunset (it warns if
+you'd arrive after dark), dirt share, and where your fuel range runs out. Routes and tracks both count, so a BDR's
+sections show as days, and you can start a loop on any section or ride it backwards (and save a reversed copy for
+your GPS). **Suggest overnight stops** finds real hotels or campgrounds near each night, with a link to their
+reviews, and **Find** shows gas, food and places to stay along the way in a second or two. Places you add carry
+their phone number and address onto your Garmin.
+
 ## Everything in one place
 - **Trip library:** your trips are plain GPX files in folders, saved automatically.
 - **Editing:** edit tracks, routes and waypoints on the map; merge, reverse, and turn a recorded track into a route.
 - **Loop rides:** a ride out and back to your start, of the length you pick, from the Loop ride button.
 - **3D terrain:** tilt the map over the hills.
-- **Elevation profile and day-by-day trip plan:** distance, time and dirt share for each day.
+- **Elevation profile:** climbs and descents along a route or track.
 - **Offline maps and routing:** download whole states, big areas or long routes and keep planning with no signal.
 - **Your GPS:** send trips to Garmin, BMW Nav and TomTom units, or share the GPX with friends.
 

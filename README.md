@@ -55,6 +55,7 @@ their phone number and address onto your Garmin.
 - **Offline maps and routing:** download whole states, big areas or long routes and keep planning with no signal.
   Dirt and twisty road data download per state or province.
 - **Your GPS:** send trips to Garmin, BMW Nav and TomTom units, or share the GPX with friends.
+  On a Garmin, shaping points keep the unit on the roads you planned, and the exact line goes along as a track for the dirt.
 
 ## Install
 1. Open the [latest release](https://github.com/dparisoe/GpxToolkit-releases/releases/latest) and, under **Assets**,

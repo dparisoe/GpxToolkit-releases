@@ -32,6 +32,12 @@ or a whole folder at once. A paved-only group can confirm a route is clean, and 
 built-in list of more than 2,000 shared dirt roads (thanks to Dan Miller, FCAR, and Regulators Dual Sport)
 to find more. Results are saved in the GPX file, so anyone you share it with sees them too.
 
+## Find the twisty roads
+The **Twisty roads** layer in the Map menu marks the clearly twisty paved roads across a whole region, coloured
+twisty, very twisty or extremely twisty. Point at one to see its name and how twisty it is. Each road is scored
+from its bends, the way roadcurvature.com does it, and only named roads of 2 miles or more are kept. It downloads
+with the dirt data for each state or province, so it works offline too.
+
 ## Plan the days
 The **Trip** panel lays the whole trip out day by day: miles, riding time, start and finish, sunset (it warns if
 you'd arrive after dark), dirt share, and where your fuel range runs out. Routes and tracks both count, so a BDR's
@@ -47,6 +53,7 @@ their phone number and address onto your Garmin.
 - **3D terrain:** tilt the map over the hills.
 - **Elevation profile:** climbs and descents along a route or track.
 - **Offline maps and routing:** download whole states, big areas or long routes and keep planning with no signal.
+  Dirt and twisty road data download per state or province.
 - **Your GPS:** send trips to Garmin, BMW Nav and TomTom units, or share the GPX with friends.
 
 ## Install

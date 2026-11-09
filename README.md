@@ -32,6 +32,7 @@ or a whole folder at once. A paved-only group can confirm a route is clean, and 
 built-in list of more than 2,000 shared dirt roads (thanks to Dan Miller, FCAR, and Regulators Dual Sport)
 to find more. Results are saved in the GPX file, so anyone you share it with sees them too.
 In Florida, stretches of dirt that appear to dead-end are drawn gray, so you can pick the roads that lead somewhere.
+Also in Florida, the closed-roads check warns about roads on conservation and military land, which are usually gated, and in Lake and Volusia counties about roads that look private.
 
 ## Find the twisty roads
 The **Twisty roads** layer in the Map menu marks the clearly twisty paved roads across a whole region, coloured

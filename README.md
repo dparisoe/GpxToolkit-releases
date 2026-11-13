@@ -60,6 +60,11 @@ their phone number and address onto your Garmin.
   On a Garmin, shaping points keep the unit on the roads you planned, and the exact line goes along as a track for the dirt.
 
 ## Install
+**Easiest: [get GPX Toolkit from the Microsoft Store](https://apps.microsoft.com/detail/9N4HKCF52MXB).** Click **Get**; there are no
+Windows warnings, and the Store keeps it up to date. New versions reach the Store a few days after they appear here.
+
+Or install it with the setup file:
+
 1. Open the [latest release](https://github.com/dparisoe/GpxToolkit-releases/releases/latest) and, under **Assets**,
    click **GpxToolkitApp-win-Setup.exe** to download it. Ignore the other files.
 2. Your browser may warn about the download:
@@ -76,7 +81,9 @@ You only do this once.
 
 ### If Windows won't let you install it
 
-Some Windows 11 PCs are set to allow only Microsoft Store apps. You can tell from the message you see:
+Some Windows 11 PCs are set to allow only Microsoft Store apps. The simple answer is to
+[get GPX Toolkit from the Microsoft Store](https://apps.microsoft.com/detail/9N4HKCF52MXB) instead; nothing needs changing. If you'd
+rather use the setup file, the message you see tells you what to change:
 
 - **"The app you're trying to install isn't a Microsoft-verified app"** (with a button to get apps from the Store):
   open **Settings → Apps → Advanced app settings → Choose where to get apps** and pick **Anywhere**. Then run the
@@ -87,9 +94,10 @@ Some Windows 11 PCs are set to allow only Microsoft Store apps. You can tell fro
 - **"For security and performance, this mode of Windows only runs verified apps from the Store"**: the PC is in
   **S mode**. Leaving S mode is free but one-way: in the Microsoft Store, search for **Switch out of S mode** and
   click **Get**.
-- On a **work or school PC**, these settings are often locked by the IT department; ask them, or use a personal PC.
+- On a **work or school PC**, these settings are often locked by the IT department; try the Microsoft Store copy,
+  ask them, or use a personal PC.
 
-**Updates:** the app checks here when it starts and offers new versions by itself. Each
+**Updates:** the app checks here when it starts and offers new versions by itself (a Microsoft Store copy is updated by the Store). Each
 [release](https://github.com/dparisoe/GpxToolkit-releases/releases) lists what's new in it.
 
 This repository holds only the installer and update packages.
